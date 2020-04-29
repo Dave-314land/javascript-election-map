@@ -56,19 +56,19 @@ th, td {
   color: white;
 }
 #countryResults th {
-  background-color: #f16059;
+  background-color: rgb(156, 153, 152);
   color: white;
 }
 .name-1 {
-  background-color: rgb(132,17,11);
+  background-color: rgb(196,4,4);
   color: white;
 }
 .name-2 {
-  background-color: rgb(245, 141, 136);
+  background-color: rgb(4, 17, 196);
   color: white;
 }
 .winner {
-  background-color: #f16059;
+  background-color: rgb(156, 153, 152);
   color: white;
 }
 
