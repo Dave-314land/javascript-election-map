@@ -1,2 +1,2 @@
 # javascript-election-map
-This is a tutorial based project
+This is a simple, one-page website, built as part of a javascript class project.
